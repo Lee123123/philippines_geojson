@@ -1,6 +1,6 @@
 {
   "name": "philippines_geojson",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "geojson maps for the philippines regions and provinces",
   "main": "index.js",
   "scripts": {
