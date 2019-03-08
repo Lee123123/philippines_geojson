@@ -1,0 +1,24 @@
+{
+  "name": "philippines_geojson",
+  "version": "1.0.0",
+  "description": "geojson maps for the philippines regions and provinces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mlab817/philippines_geojson.git"
+  },
+  "keywords": [
+    "maps",
+    "amcharts4",
+    "geojson"
+  ],
+  "author": "mark lester a bolotaolo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlab817/philippines_geojson/issues"
+  },
+  "homepage": "https://github.com/mlab817/philippines_geojson#readme"
+}
